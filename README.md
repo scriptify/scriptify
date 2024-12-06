@@ -1,5 +1,5 @@
 ﻿<h1 align="center">Hello there 👋, I'm Maximilian Torggler</h1>
-<h3 align="center"><a href="https://carlito-app.com">CTO @ Carlito;</a> Brewing together cool stuff on the interwebs since quite some time. Deliberately calling my self a <i>Some-stack Developer</i></h3>
+<h3 align="center"><a href="https://carlito-app.com">CTO @ Carlito;</a> Brewing together cool stuff on the interwebs since quite some time.</h3>
 
 👨‍💻 Learn more about me at [https://maximilian-torggler.dev/](https://maximilian-torggler.dev/)
 &| <a href="https://www.linkedin.com/in/maximilian-torggler/" target="blank">add me on LinkedIn if you want to have a chat!</a>
